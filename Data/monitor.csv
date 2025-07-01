@@ -1,0 +1,51 @@
+"mo_id","mregion","marea","PM25","NO2"
+"M_01","London","City of Westminster",128.5,33.17
+"M_02","London","Kensington and Chelsea",97.05,36.21
+"M_03","London","Camden",40.74,38.65
+"M_04","London","Hackney",88.01,39.06
+"M_05","London","Islington",106.03,27.85
+"M_06","London","Haringey",83.13,40.05
+"M_07","London","Tower Hamlets",89.74,47.85
+"M_08","London","Lambeth",63.02,41.26
+"M_09","London","Southwark",48.1,11.03
+"M_10","London","Wandsworth",44.8,24.82
+"M_11","London","Lewisham",60.24,46.64
+"M_12","London","Greenwich",33.69,22.89
+"M_13","London","Hammersmith and Fulham",76.37,26.91
+"M_14","London","Brent",87.52,33.17
+"M_15","London","Richmond upon Thames",75.49,18.36
+"M_16","England","Manchester",83.14,15.85
+"M_17","England","Birmingham",78.05,42.85
+"M_18","England","Liverpool",43.9,18.81
+"M_19","England","Leeds",20.11,26.11
+"M_20","England","Sheffield",68.73,41.94
+"M_21","England","Newcastle upon Tyne",37.3,31.23
+"M_22","England","Bristol",115.25,17.03
+"M_23","England","Nottingham",122.75,37.92
+"M_24","England","Oxford",27.36,40.91
+"M_25","England","Cambridge",71.35,31.08
+"M_26","England","Brighton",68.27,3.84
+"M_27","England","Southampton",120.74,19.9
+"M_28","England","Portsmouth",25.07,40.2
+"M_29","England","York",58.23,38.3
+"M_30","England","Exeter",22.85,45.15
+"M_31","Scotland","Edinburgh",70.92,18.86
+"M_32","Scotland","Glasgow",32.67,36.5
+"M_33","Scotland","Aberdeen",60.41,35.24
+"M_34","Scotland","Dundee",80.9,34.72
+"M_35","Scotland","Inverness",55.81,17.36
+"M_36","Scotland","Stirling",89.28,28.61
+"M_37","Scotland","Perth",33.62,30.33
+"M_38","Scotland","Paisley",27.22,13.93
+"M_39","Scotland","Dumfries",90.57,52.9
+"M_40","Scotland","Kilmarnock",40.66,35.74
+"M_41","Wales","Cardiff",47.67,38.42
+"M_42","Wales","Swansea",104.44,10.22
+"M_43","Wales","Newport",73.56,20.19
+"M_44","Wales","Bangor",60.73,26.36
+"M_45","Wales","Wrexham",29.96,22.57
+"M_46","Northern Ireland","Belfast",99.64,29.62
+"M_47","Northern Ireland","Derry/Londonderry",48,29.71
+"M_48","Northern Ireland","Lisburn",89.6,30.43
+"M_49","Northern Ireland","Newry",26.61,27.75
+"M_50","Northern Ireland","Armagh",90.67,34.97
