@@ -66,7 +66,10 @@ The Mondrian method recursively partitions data into multidimensional regions un
 
 For more details, refer to the [original paper](https://pages.cs.wisc.edu/~lefevre/MultiDim.pdf).
 
-![Mondrian Partitioning](https://frontdesk.co.in/wp-content/uploads/2024/05/image-15.png)
+<div align="center">
+  <img src="https://frontdesk.co.in/wp-content/uploads/2024/05/image-15.png" width="400"/>
+  <p><em>Figure: A simplified illustration of Mondrian partitioning in two dimensions.</em></p>
+</div>
 
 *Figure: A simplified illustration of Mondrian partitioning in two dimensions.*
 
