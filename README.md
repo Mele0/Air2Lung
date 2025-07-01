@@ -71,8 +71,6 @@ For more details, refer to the [original paper](https://pages.cs.wisc.edu/~lefev
   <p><em>Figure: A simplified illustration of Mondrian partitioning in two dimensions.</em></p>
 </div>
 
-*Figure: A simplified illustration of Mondrian partitioning in two dimensions.*
-
 ---
 
 #### K-Anonymity Strategy:
