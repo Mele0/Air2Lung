@@ -10,7 +10,6 @@ This project focuses on constructing, querying, analyzing, and securing a relati
 - Implement privacy-preserving techniques including k-anonymity and encryption.
 - Use Python to query the database and manipulate patient-level data.
 
-
 ## 📁 Dataset Description
 
 The project uses a synthetic cohort study consisting of:
@@ -57,8 +56,24 @@ Data split into two linked CSVs:
 
 A re-identification risk assessment showed **83 individuals** could be uniquely identified using just quasi-identifiers—highlighting the insufficiency of basic de-identification.
 
+---
+
+#### 🧠 Mondrian Method for K-Anonymity
+
+To anonymize quasi-identifiers in our dataset, we used a custom binning and generalization strategy inspired by the **Mondrian multidimensional k-anonymity** algorithm.
+
+The Mondrian method recursively partitions data into multidimensional regions until no further division is possible without violating the desired k-anonymity threshold. It balances privacy and data utility by minimizing information loss.
+
+For more details, refer to the [original paper](https://pages.cs.wisc.edu/~lefevre/MultiDim.pdf).
+
+![Mondrian Partitioning](https://frontdesk.co.in/wp-content/uploads/2024/05/image-15.png)
+
+*Figure: A simplified illustration of Mondrian partitioning in two dimensions.*
+
+---
+
 #### K-Anonymity Strategy:
-Using a custom binning and generalization approach (inspired by the Mondrian method), we achieved:
+Using the Mondrian-inspired approach, we achieved:
 
 | K-Anonymity Level | Samples Retained |
 |-------------------|------------------|
@@ -77,4 +92,7 @@ Used the `cryptography` Python package and Fernet symmetric encryption to secure
 from cryptography.fernet import Fernet
 key = Fernet.generate_key()
 f = Fernet(key)
-# Encrypt / Decrypt using f.encrypt() and f.decrypt()
+# Encrypt
+encrypted = f.encrypt(b"your_data_here")
+# Decrypt
+decrypted = f.decrypt(encrypted)
