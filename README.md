@@ -83,6 +83,38 @@ Using the Mondrian-inspired approach, we achieved:
 | ≥3                | 109              |
 | ≥4                | 16               |
 
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>K-Anonymity Level</th>
+      <th>Samples Retained</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>≥1</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>≥2</td>
+      <td>367</td>
+    </tr>
+    <tr>
+      <td>≥3</td>
+      <td>109</td>
+    </tr>
+    <tr>
+      <td>≥4</td>
+      <td>16</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+
 Final anonymized dataset: `Anonymized_information.csv`
 
 ### 5. Data Encryption
