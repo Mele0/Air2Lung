@@ -76,13 +76,6 @@ For more details, refer to the [original paper](https://pages.cs.wisc.edu/~lefev
 #### K-Anonymity Strategy:
 Using the Mondrian-inspired approach, we achieved:
 
-| K-Anonymity Level | Samples Retained |
-|-------------------|------------------|
-| ≥1                | 1000             |
-| ≥2                | 367              |
-| ≥3                | 109              |
-| ≥4                | 16               |
-
 <div align="center">
 
 <table>
