@@ -1,0 +1,17 @@
+,sex,blood_group,age_grouped,area,weight,SNP3,SNP5,SNP2,n_countries_visited,avg_n_cigret_per_week,height,Diet,SNP4,current_country,SNP1,avg_n_drinks_per_week,Ethnicity,education_level,Chip_ID
+53,0,A+,"(50, 55]",Lambeth,64.4,0.619790901,0.378362176,0.421895844,31,208.7,1.44,poor,0.992848269,United Kingdom,0.473858588,1.5,Black,non-higher education,3
+55,0,A+,"(50, 55]",Lambeth,61.1,0.66065255,0.937449771,0.826967055,38,186.5,1.55,poor,0.509529538,United Kingdom,0.603241044,3.1,Black,non-higher education,1
+66,1,AB-,"(50, 55]",Hackney,58.5,0.386531219,0.277430985,0.524017096,35,87.3,1.68,poor,0.909741798,United Kingdom,0.58904265,9.8,Other,non-higher education,2
+74,0,O+,"(50, 55]",Liverpool,81.4,0.279258519,0.287728522,0.364956152,41,307.3,1.78,poor,0.34900147,United Kingdom,0.274318083,4.3,White,non-higher education,3
+116,0,A+,"(50, 55]",Liverpool,77.4,0.580082071,0.80583605,0.377122001,25,132.8,1.91,poor,0.119624438,United Kingdom,0.205040951,9.7,White,non-higher education,2
+306,0,A+,"(50, 55]",Wandsworth,40.9,0.884866081,0.439860017,0.837456546,28,75.3,1.46,good,0.846021318,United Kingdom,0.860288548,4.5,Asian,higher education,1
+334,0,O+,"(50, 55]",Liverpool,48.0,0.843120156,0.362360291,0.680528359,17,154.0,1.77,poor,0.958033947,United Kingdom,0.048780109,6.0,White,non-higher education,2
+423,0,A-,"(50, 55]",Lambeth,99.7,0.858075274,0.191526447,0.701816684,13,331.2,1.81,good,0.224939749,United Kingdom,0.531836739,8.1,Black,non-higher education,2
+475,1,O+,"(50, 55]",Hackney,56.1,0.922707184,0.800601604,0.35407519,20,169.2,1.78,good,0.525625748,United Kingdom,0.958614485,4.2,Other,non-higher education,4
+630,0,B-,"(50, 55]",Wandsworth,61.9,0.95648359,0.694586926,0.257754859,24,185.8,1.75,good,0.385006929,United Kingdom,0.305483507,1.6,Asian,higher education,1
+662,1,A+,"(50, 55]",Hackney,74.4,0.556195637,0.4989857,0.453453139,7,25.7,1.96,poor,0.419366006,United Kingdom,0.674826764,9.0,Other,non-higher education,2
+909,0,A+,"(50, 55]",Wandsworth,63.8,0.140092939,0.397709155,0.629321114,41,179.6,1.6,poor,0.843330489,United Kingdom,0.973544462,4.8,Asian,higher education,3
+915,0,A+,"(50, 55]",Liverpool,96.0,0.38284191,0.575229896,0.774089988,25,223.4,1.74,moderate,0.058935056,United Kingdom,0.942686081,7.5,White,non-higher education,3
+928,0,A+,"(50, 55]",Wandsworth,43.7,0.643148942,0.247317622,0.902812852,29,80.7,1.88,poor,0.808372593,United Kingdom,0.366023718,1.8,Asian,higher education,4
+982,1,O+,"(50, 55]",Hackney,58.7,0.560113784,0.079676314,0.697437332,47,444.3,1.86,poor,0.849376851,United Kingdom,0.541152035,8.3,Other,non-higher education,2
+988,0,O+,"(50, 55]",Lambeth,73.3,0.20165069,0.181756663,0.059517561,8,391.7,1.46,good,0.781332658,United Kingdom,0.475412069,3.0,Black,non-higher education,1
